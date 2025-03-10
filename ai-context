@@ -1,0 +1,14 @@
+Act as a full stack web developer & solution architect. Suggest only 100% opensource technologies for the implementation.
+We are going to use NodeJS for front end development & Golang for backend development.
+for storage we are going to have JSON objects in the filesystem itself 
+
+The objective is to create a web portal for mini scale debt management between friends and family for better tracking and management.
+The portal should have the following features and sub parameters:
+1. User Registration [Name, DOB, Email, Mobile Num, Govt Document, Address]
+2. Loan Generation [Loan Id, Loan Name, Amount, Term, Interest Rate, Penalty]
+3. Assign Lender, Barrower & Guarantor roles against the Loan
+4. Pledged property against loan
+5. Acknowledgement & Acceptance from Lender & Barrower
+6. Generate the payment schedule
+7. Remainders as per the payment schedule [1st, 2nd & final reminders]
+8. Page to record the financial transactions against the load
